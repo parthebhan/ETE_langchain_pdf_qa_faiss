@@ -9,7 +9,7 @@ This script provides a web interface using Streamlit to interact with a PDF Quer
 
 ### **Usage**
 
-1. **Initialization**: The script initializes the LlamaParse parser with a specific instruction.
+1. **Initialization**: The script initializes with a specific instruction.
 2. **Processing**: Parses the PDF, converts content to markdown, and splits it into chunks.
 3. **Vector Store**: Creates document embeddings and stores them in the Qdrant vector database.
 4. **QA System**: Sets up a QA system with ChatGroq to answer user queries based on the processed document.
