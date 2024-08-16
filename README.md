@@ -17,8 +17,6 @@ This script provides a web interface using Streamlit to interact with a PDF Quer
 
 ![Alt text](https://github.com/parthebhan/ETE_langchain_pdf_qa_faiss/blob/cc5f6f0fbd706d98b43d7dd9e14a38c6b037658c/App%20Preview.jpg)
 
-![Alt text](https://github.com/parthebhan/ETE_langchain_pdf_qa_faiss/blob/cc5f6f0fbd706d98b43d7dd9e14a38c6b037658c/process.png)
-
 ### **Key Functions**
 
 - **`user_input(user_question)`**
@@ -67,6 +65,10 @@ This module provides helper functions to extract text from PDFs, split text into
 This code integrates various AI and NLP tools to build a powerful system for interacting with PDF documents. It handles the entire pipeline, from parsing and storing document content to retrieving and answering user queries. The script is modular and extensible, offering a robust solution for document-based question-answering systems.
 
 ![Alt text](https://github.com/parthebhan/ETE_langchain_pdf_qa_faiss/blob/cc5f6f0fbd706d98b43d7dd9e14a38c6b037658c/conversational_retrieval_chain-5c7a96abe29e582bc575a0a0d63f86b0.png)
+
+## **Process**
+
+![Alt text](https://github.com/parthebhan/ETE_langchain_pdf_qa_faiss/blob/cc5f6f0fbd706d98b43d7dd9e14a38c6b037658c/process.png)
 
 ## **Author**
 
