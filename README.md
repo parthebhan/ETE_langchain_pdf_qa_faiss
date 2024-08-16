@@ -11,9 +11,9 @@ This script provides a web interface using Streamlit to interact with a PDF Quer
 
 1. **Initialization**: The script initializes with a specific instruction.
 2. **Processing**: Parses the PDF, converts content to markdown, and splits it into chunks.
-3. **Vector Store**: Creates document embeddings and stores them in the Qdrant vector database.
+3. **Vector Store**: Creates document embeddings and stores them in the Faiss vector database.
 4. **QA System**: Sets up a QA system with ChatGroq to answer user queries based on the processed document.
-5. **Querying**: Asks predefined questions and displays answers.
+5. **Querying**: Asks questions and displays response.
 
 ![Alt text](https://github.com/parthebhan/ETE_langchain_pdf_qa_faiss/blob/cc5f6f0fbd706d98b43d7dd9e14a38c6b037658c/App%20Preview.jpg)
 
