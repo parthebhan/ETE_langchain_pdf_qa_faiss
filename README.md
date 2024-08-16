@@ -76,7 +76,7 @@ This script was created by Parthebhan Pari.
 
 ## **Notes**
 
-- Ensure that the required API keys (Groq, LlamaParse, Google) are correctly configured in your environment variables.
+- Ensure that the required API keys (Groq, Google) are correctly configured in your environment variables.
 - The script uses advanced AI models for parsing and answering questions, requiring a stable internet connection and sufficient computational resources.
 
 
